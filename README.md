@@ -65,6 +65,7 @@ php artisan serve
 ```
 
 ## Tampilan Website
+Tampilan Awal
 <img width="960" alt="Screenshot 2023-12-04 092055" src="https://github.com/Risaly16/Ticket-Laravel/assets/152804564/f624403b-d900-4e36-b59a-6c42cb814995">
 
 ## Author
