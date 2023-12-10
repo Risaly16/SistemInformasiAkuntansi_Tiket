@@ -66,9 +66,25 @@ php artisan serve
 
 ## Tampilan Website
 Tampilan Awal
-<img width="960" alt="Screenshot 2023-12-04 092055" src="https://github.com/Risaly16/Ticket-Laravel/assets/152804564/f624403b-d900-4e36-b59a-6c42cb814995">
+![login](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/0d53ef11-60b5-4aaf-89b8-75f290fa6d90)
+
 Dashboard
-![dashboard](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/71206542-4391-4d6c-94cc-6756099ef1dc)
+![dashboard](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/105454f9-a6bd-4592-b6ec-9dd9912a8613)
+
+Transaksi
+![Transaksi](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/cbf045db-e37b-4b2a-8af3-037e6c74a6e3)
+
+Rute
+![Rute](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/8c48d739-a65a-4884-858a-7c35fc1091bf)
+
+Verifikasi Pembayaran
+![verifikasi pembayaran](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/5109a62e-b1ba-4f83-82bf-6329994ce971)
+
+Structure Database
+![phpmyadmin](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/c5269f3f-f4b1-460c-8a3f-670e9794c033)
+
+Designer phpMyAdmin
+![erd](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/826f981c-3cdc-4da6-aab4-0bdb8d3dd2bb)
 
 
 ## Author
