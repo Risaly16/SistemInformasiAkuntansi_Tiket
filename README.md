@@ -81,7 +81,7 @@ Verifikasi Pembayaran
 ![verifikasi pembayaran](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/5109a62e-b1ba-4f83-82bf-6329994ce971)
 
 Structure Database
-![phpmyadmin](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/c5269f3f-f4b1-460c-8a3f-670e9794c033)
+![erd](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/b2fc695c-2adc-4a3b-8ac0-747540fb4cd3)
 
 Designer phpMyAdmin
 ![erd](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/826f981c-3cdc-4da6-aab4-0bdb8d3dd2bb)
