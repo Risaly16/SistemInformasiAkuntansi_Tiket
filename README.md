@@ -85,7 +85,8 @@ Rancangan flowchart awal web merupakan alur program ketika staf pertama kali men
 ![flowchart login drawio](https://github.com/Risaly16/SistemInformasiAkuntansi_Tiket/assets/152804564/c6d5b825-1e71-4935-985a-4f3cfc6ec2b1)
 
 Flowchart Sistem Informasi Akuntansi Tiket
-Rancangan flowchart SIA merupakan alur program ketika sudah berhasil melakukan proses sign in lalu masuk kedalam aplikasi SIA
+Rancangan flowchart SIA merupakan alur program ketika sudah berhasil melakukan proses sign in 
+lalu masuk kedalam aplikasi SIA
 ![Screenshot (11)](https://github.com/Risaly16/SistemInformasiAkuntansi_Tiket/assets/152804564/df9bd7c8-a659-4abc-95c4-57118ad7288f)
 
 Structure Database
