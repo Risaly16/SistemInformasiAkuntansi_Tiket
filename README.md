@@ -63,6 +63,7 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
+## Sistem Informasi Akuntansi Tiket
 Sistem Informasi Akuntansi Tiket adalah platform yang dirancang khusus untuk mengelola transaksi keuangan terkait penjualan dan pembelian tiket. Dengan fitur manajemen pelanggan, sistem ini mencatat informasi pribadi pelanggan serta preferensi mereka, sementara pengelolaan tiket mencakup pencatatan penjualan tiket, harga, dan stok. Selain itu, sistem mencatat transaksi keuangan, seperti penerimaan pembayaran dan biaya operasional, yang kemudian digunakan untuk menghasilkan laporan keuangan. Dengan kemampuan manajemen persediaan tiket, pelaporan keuangan, dan integrasi dengan sistem lain, Sistem Informasi Akuntansi Tiket membantu perusahaan meningkatkan efisiensi operasional, keamanan data, dan pengambilan keputusan strategis berdasarkan analisis keuangan yang akurat.
 
 ## Tampilan Website
