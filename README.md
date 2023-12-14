@@ -93,6 +93,7 @@ Structure Database
 ![phpmyadmin](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/02544e65-8252-4704-a52b-76c481de6586)
 
 Designer phpMyAdmin
+Rancangan tabel yang dibuat didalam database merupakan implementasi dari desain entity relational diagram. Terdapat 6 entitas yang menjadi tabel pada database SIA. Berikut merupakan rancangan tabel yang sudah dibuat pada database SIA dapat dilihat pada gambar dibawah ini
 ![erd](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/826f981c-3cdc-4da6-aab4-0bdb8d3dd2bb)
 
 
