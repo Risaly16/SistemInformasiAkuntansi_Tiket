@@ -82,6 +82,7 @@ Rute
 Verifikasi Pembayaran
 ![verifikasi pembayaran](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/5109a62e-b1ba-4f83-82bf-6329994ce971)
 
+## Flowchart
 Flowchart Awal Web
 Rancangan flowchart awal web merupakan alur program ketika staf pertama kali menjalankan Sistem 
 ![flowchart login drawio](https://github.com/Risaly16/SistemInformasiAkuntansi_Tiket/assets/152804564/c6d5b825-1e71-4935-985a-4f3cfc6ec2b1)
@@ -90,6 +91,7 @@ Flowchart Sistem Informasi Akuntansi Tiket
 Rancangan flowchart SIA merupakan alur program ketika sudah berhasil melakukan proses sign in
 ![Screenshot (11)](https://github.com/Risaly16/SistemInformasiAkuntansi_Tiket/assets/152804564/df9bd7c8-a659-4abc-95c4-57118ad7288f)
 
+## Database
 Structure Database
 Hubungan database dalam Sistem Informasi Akuntansi Tiket sangat krusial untuk memastikan efisiensi, integritas, dan keterjangkauan data. Basis data menyimpan informasi terkait pelanggan, transaksi penjualan tiket, dan data keuangan. Tabel pelanggan mencatat detail pelanggan seperti nama, kontak, dan riwayat transaksi. Tabel tiket menyimpan informasi mengenai jenis tiket, harga, dan stok yang tersedia. Transaksi keuangan direkam dalam tabel terpisah, mencakup pembayaran dari pelanggan dan biaya operasional. Hubungan antara tabel-tabel ini dibangun melalui kunci asing dan kunci utama, memastikan integritas referensial. Sebagai contoh, users (kunci utama) dalam tabel pelanggan terhubung dengan pemesanan (kunci asing) dalam tabel transaksi keuangan. Integrasi ini memungkinkan sistem dengan cepat mengekstrak dan menganalisis data untuk melacak penjualan, mengelola persediaan tiket, serta menghasilkan laporan keuangan secara efisien. Dengan basis data yang terstruktur dengan baik, Sistem Informasi Akuntansi Tiket dapat memberikan informasi yang akurat dan real-time, mendukung pengambilan keputusan yang lebih baik dalam menjalankan operasi bisnis.
 ![phpmyadmin](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/02544e65-8252-4704-a52b-76c481de6586)
