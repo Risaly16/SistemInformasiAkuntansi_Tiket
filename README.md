@@ -80,9 +80,16 @@ Rute
 Verifikasi Pembayaran
 ![verifikasi pembayaran](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/5109a62e-b1ba-4f83-82bf-6329994ce971)
 
+Flowchart Awal Web
+Rancangan flowchart awal web merupakan alur program ketika staf pertama kali menjalankan Sistem 
+![flowchart login drawio](https://github.com/Risaly16/SistemInformasiAkuntansi_Tiket/assets/152804564/c6d5b825-1e71-4935-985a-4f3cfc6ec2b1)
+
+Flowchart Sistem Informasi Akuntansi Tiket
+Rancangan flowchart SIA merupakan alur program ketika sudah berhasil melakukan proses sign in lalu masuk kedalam aplikasi SIA
+![Screenshot (11)](https://github.com/Risaly16/SistemInformasiAkuntansi_Tiket/assets/152804564/df9bd7c8-a659-4abc-95c4-57118ad7288f)
+
 Structure Database
 ![phpmyadmin](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/02544e65-8252-4704-a52b-76c481de6586)
-
 
 Designer phpMyAdmin
 ![erd](https://github.com/Risaly16/Ticket-Laravel/assets/152804564/826f981c-3cdc-4da6-aab4-0bdb8d3dd2bb)
